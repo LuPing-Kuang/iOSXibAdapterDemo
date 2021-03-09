@@ -1,0 +1,13 @@
+//
+//  PrefixHeader.pch
+//  iOSXibAdapterDemo
+//
+//  Created by klp on 2021/3/9.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "UIView+LPXib.h"
+
+#endif /* PrefixHeader_pch */
